@@ -1,0 +1,66 @@
+{
+  "parks": [{
+    "name" : "Casanova Park",
+    "lat": 37.5344313,
+    "long": -122.2820298,
+    "city": "San Mateo"
+ 
+    },
+    {
+
+    "name" : "Alexander Park",
+    "lat": 37.5271181,
+    "long": -122.2806888,
+    "city": "Belmont"
+  
+    },
+    {
+
+    "name" : "Water Dog Lake Park",
+    "lat": 37.5085466,
+    "long": -122.312586,
+    "city": "Belmont"
+ 
+    },
+    {
+      
+    "name" : "Laurelwood Park",
+    "lat": 37.5264537,
+    "long": -122.3236674,
+    "city": "San Mateo"
+      
+     },
+    {
+      
+    "name" : "Laurie Meadows Park",
+    "lat": 37.5319836, 
+    "long": -122.2816796,
+    "city": "Belmont"
+      
+     },
+    {
+      
+    "name" : "Huddart Park", 
+    "lat": 37.4402336, 
+    "long": -122.2908524,
+    "city": "Woodside"
+      
+     },
+    {
+      
+    "name" : "Twin Pines Park", 
+    "lat": 37.5165306, 
+    "long": -122.278385,
+    "city": "Belmont"
+      
+     },
+    {
+      
+    "name" : "Crestview Park", 
+    "lat": 37.4840556,  
+    "long": -122.2860054,
+    "city": "San Carlos"
+      
+     }
+    ]
+}
